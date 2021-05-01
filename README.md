@@ -6,6 +6,12 @@
 📫 How to reach me: gasiorowicz10@gmail.com
 
 ⚡ Fun fact: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgosunyoung%2Fgosunyoung&count_bg=%233A7CA7&title_bg=%23D2D5D1&icon=reactos.svg&icon_color=%23C38B8B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Peyton's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosunyoung)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!--
 **gosunyoung/gosunyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
