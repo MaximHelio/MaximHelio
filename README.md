@@ -3,8 +3,8 @@
 
 💬 I'm interested in chemoinformatics
 
-📫 How to reach me: gasiorowicz10@gmail.com
-| Contact                 | Weblog                        |
+📫 How to reach me: 
+|E-mail                   | Weblog                        |
 |-------------------------|-------------------------------|
 | gasiorowicz10@gmail.com | https://peytonengine.com      |
 |                         | https://bedigital.tistory.com |
