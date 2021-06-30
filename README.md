@@ -9,7 +9,9 @@
 |E-mail                   | Weblog                        |
 |-------------------------|-------------------------------|
 | 📫gasiorowicz10@gmail.com | https://peytonengine.com      |
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gosunyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                         | https://bedigital.tistory.com |[![Peyton's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosunyoung&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gosunyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|https://bedigital.tistory.com |
+
+[![Peyton's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosunyoung&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
