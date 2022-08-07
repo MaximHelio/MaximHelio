@@ -10,7 +10,7 @@
 
 [![Peyton's GitHub stats](https://github-readme-stats.vercel.app/api?username=kknni&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kknni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://raw.githubusercontent.com/kknni/gitartwork/main/gitartwork.svg
+[![gitartwork](https://raw.githubusercontent.com/kknni/gitartwork/main/gitartwork.svg)]
 
 <!--
 **gosunyoung/gosunyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
