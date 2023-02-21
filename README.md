@@ -12,7 +12,7 @@
 
 ![gitartwork](https://raw.githubusercontent.com/kknni/gitartwork/main/gitartwork.svg)
 
-## Tools and technologies that I have worked with and am interested in
+## Stash && Smash
 <table align="center">
     <td align="center" width="96">
       <a href="#vuejs">
@@ -62,7 +62,7 @@
 
 <tr>
     <td align="center"  width="96">
-     <a href="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="nodejs" width="40" height="40"/> </a>
+     <a href="https://spring.io/img/spring.svg" alt="nodejs" width="40" height="40"/> </a>
       <br>Spring Boot
     </td>
     <td align="center"  width="96">
@@ -70,7 +70,7 @@
       <br>Node js
     </td>
     <td align="center"  width="96">
-     <a href="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/> </a>
+     <a href="https://cdn.iconscout.com/icon/free/png-256/django-3550620-2970205.png?f=avif&w=128" alt="django" width="40" height="40"/> </a>
       <br>Django
     </td>
     <td align="center" width="96">
