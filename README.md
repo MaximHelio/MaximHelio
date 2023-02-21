@@ -21,8 +21,20 @@
       <br>Java
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#ts">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#vuejs">
@@ -36,28 +48,30 @@
       </a>
       <br>Nuxt JS
     </td>
-    <td align="center" width="96">
-      <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+    <td align="center"  width="96">
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+      <br>React js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Fortran.svg" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
+      <br>Fortran
     </td>
 </tr>
 
 <tr>
     <td align="center"  width="96">
+     <a href="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="nodejs" width="40" height="40"/> </a>
+      <br>Spring Boot
+    </td>
+    <td align="center"  width="96">
      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
       <br>Node js
     </td>
     <td align="center"  width="96">
-     <a href="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="nodejs" width="40" height="40"/> </a>
-      <br>Spring Boot
+     <a href="https://techstack-generator.vercel.app/django-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+      <br>Django
     </td>
     <td align="center" width="96">
       <a href="#git" >
@@ -86,11 +100,31 @@
       <br>Kubernetes
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" />
+      <br>Argo
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
       <br>redis
     </td>
 </tr>
 <tr>
+    <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://e7.pngegg.com/pngimages/263/506/png-clipart-oracle-logo-illustration-oracle-database-oracle-corporation-postgresql-relational-database-management-system-oracle-logo-brand-postgresql.png" width="48" height="48" alt="Oracle" />
+      </a>
+      <br>Oracle
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
@@ -104,19 +138,6 @@
       <br>Mongo
     </td>
     <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://e7.pngegg.com/pngimages/263/506/png-clipart-oracle-logo-illustration-oracle-database-oracle-corporation-postgresql-relational-database-management-system-oracle-logo-brand-postgresql.png" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Oracle
-    </td>
-     <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Livewire
-    </td>
-    <td align="center" width="96">
         <a href="#alpinejs">
             <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
                 height="48" alt="alpinejs" />
@@ -125,27 +146,17 @@
     </td>
  </tr>
 <tr>
-     <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+    <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
-      <br>Ubuntu
+      <br>Intellij
     </td>
-     <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
-      </a>
-      <br>Digital Ocean
-    </td>
-      <td align="center"  width="96">
+    <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
-    </td>
-     <td align="center"  width="96">
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-      <br>React js
     </td>
       <td align="center" width="96">
       <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
