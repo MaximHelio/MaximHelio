@@ -13,7 +13,7 @@
 ![gitartwork](https://raw.githubusercontent.com/kknni/gitartwork/main/gitartwork.svg)
 
 ## Tools and technologies that I have worked with and am interested in
-
+<table align="center">
   <tr>
      <td align="center" width="96">
       <a href="#nuxtjs">
