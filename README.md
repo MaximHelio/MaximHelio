@@ -12,11 +12,37 @@
 
 ![gitartwork](https://raw.githubusercontent.com/kknni/gitartwork/main/gitartwork.svg)
 
+## Tools and technologies that I have worked with and am interested in
+
+```html
+<table align="center">
+	<tbody>
+		<tr>
+			<td align="center" width="96">
+			  <a href="#nuxtjs">
+			  	<img src="https://camo.githubusercontent.com/202eed04c5aef73d6e2e0d4cd935ef0c1c3a92b6e636c4d45d571bf0d96186a1/68747470733a2f2f692e6962622e636f2f4c7a6d597044582f3134362d313436363930322d7068702d6c6f676f2d706e672d7472616e73706172656e742d7068702d6c6f676f2d706e672d706e672d72656d6f766562672d707265766965772e706e67" width="48" height="48">
+			  </a>
+			  <br>"PHP"
+			 </td>
+			 <td align="center" width="96">
+			  <a href="#nuxtjs">
+			  	<img src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="65" height="65">
+			  </a>
+			  <br>"Python"
+			 </td>
+    </tr>
+  </tbody>
+</table>
+```
+
+
+
 <!--
 **gosunyoung/gosunyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 Hello! 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning web
 - 👯 I’m looking to collaborate on ...
