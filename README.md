@@ -14,13 +14,6 @@
 
 ## Tools and technologies that I have worked with and am interested in
 <table align="center">
-  <tr>
-     <td align="center" width="96">
-      <a href="#nuxtjs">
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -32,20 +25,16 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+      <a href="#vuejs">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
-      <br>Laravel
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Vue JS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
@@ -132,9 +121,9 @@
     </td>
     <td align="center" width="96">
       <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+        <img src="hhttps://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="48" height="48" alt="Laravel" />
       </a>
-      <br>MySQL
+      <br>Oracle
     </td>
      <td align="center" width="96">
         <a href="#livewire">
