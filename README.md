@@ -98,22 +98,6 @@
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" />
-      <br>Argo
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
-      <br>redis
-    </td>
-    <td align="center" width="96">
       <a href="#laravel">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" height="48" alt="AWS" />
       </a>
@@ -126,16 +110,28 @@
       <br>Oracle
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
       <br>Mongo
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" />
+      <br>Argo
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <br>redis
     </td>
  </tr>
 <tr>
