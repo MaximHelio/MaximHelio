@@ -70,8 +70,12 @@
       <br>Node js
     </td>
     <td align="center"  width="96">
-     <a href="https://techstack-generator.vercel.app/django-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+     <a href="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/> </a>
       <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest
     </td>
     <td align="center" width="96">
       <a href="#git" >
@@ -91,10 +95,8 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
-    </td>
+</tr>
+<tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
       <br>Kubernetes
@@ -111,8 +113,6 @@
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
       <br>redis
     </td>
-</tr>
-<tr>
     <td align="center" width="96">
       <a href="#laravel">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" height="48" alt="AWS" />
@@ -136,13 +136,6 @@
     <td align="center" width="96">
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
       <br>Mongo
-    </td>
-    <td align="center" width="96">
-        <a href="#alpinejs">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
-                height="48" alt="alpinejs" />
-        </a>
-        <br>Alpine JS
     </td>
  </tr>
 <tr>
