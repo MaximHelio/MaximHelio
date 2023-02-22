@@ -49,7 +49,7 @@
       <br>Nuxt JS
     </td>
     <td align="center"  width="96">
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/> </a> 
       <br>React js
     </td>
     <td align="center" width="96">
@@ -62,11 +62,11 @@
 
 <tr>
     <td align="center"  width="96">
-     <a href="https://logodix.com/logo/1614368.png" alt="nodejs" width="40" height="40"/> </a>
+     <a href="https://nodejs.org" target="_blank"> <img src="https://logodix.com/logo/1614368.png" alt="nodejs" width="40" height="40"/> </a>
       <br>Spring Boot
     </td>
     <td align="center"  width="96">
-     <a href="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/> </a>
+     <a href="https://nodejs.org" target="_blank"> <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="nodejs" width="40" height="40"/> </a>
       <br>Django
     </td>
     <td align="center"  width="96">
@@ -74,7 +74,7 @@
       <br>Node js
     </td>
     <td align="center"  width="96">
-     <a href="https://nodejs.org" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="electronjs" width="40" height="40"/> </a>
+     <a href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png?20190331235051" alt="electronjs" width="40" height="40"/> </a>
       <br>Electron Js
     </td>
     <td align="center" width="96">
@@ -88,7 +88,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
     <td align="center"  width="96">
@@ -166,6 +166,10 @@
     <td align="center" width="96">
       <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" alt="heroku" width="40" height="40"/> </a></a> 
       <br>Elasticsearch
+    </td>
+    <td align="center" width="96">
+      <a href="" target="_blank"> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="heroku" width="40" height="40"/> </a></a> 
+      <br>Nginx
     </td>
   </tr>
 
