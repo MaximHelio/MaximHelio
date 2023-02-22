@@ -32,7 +32,7 @@
     </td>
     <td align="center" width="96">
       <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
@@ -62,16 +62,20 @@
 
 <tr>
     <td align="center"  width="96">
-     <a href="https://spring.io/img/spring.svg" alt="nodejs" width="40" height="40"/> </a>
+     <a href="https://logodix.com/logo/1614368.png" alt="nodejs" width="40" height="40"/> </a>
       <br>Spring Boot
+    </td>
+    <td align="center"  width="96">
+     <a href="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/> </a>
+      <br>Django
     </td>
     <td align="center"  width="96">
      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
       <br>Node js
     </td>
     <td align="center"  width="96">
-     <a href="https://cdn.iconscout.com/icon/free/png-256/django-3550620-2970205.png?f=avif&w=128" alt="django" width="40" height="40"/> </a>
-      <br>Django
+     <a href="https://nodejs.org" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="electronjs" width="40" height="40"/> </a>
+      <br>Electron Js
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
@@ -91,15 +95,11 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
 </tr>
 <tr>
     <td align="center" width="96">
       <a href="#laravel">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" height="48" alt="AWS" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
@@ -135,6 +135,10 @@
     </td>
  </tr>
 <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
     <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="48" height="48" alt="Jamstack" />
@@ -155,10 +159,13 @@
       <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
       <br>webpack
     </td>
-      <td align="center" width="96">
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-        </a> 
+    <td align="center" width="96">
+      <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a></a> 
       <br>Heroku
+    </td>
+    <td align="center" width="96">
+      <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" alt="heroku" width="40" height="40"/> </a></a> 
+      <br>Elasticsearch
     </td>
   </tr>
 
