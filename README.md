@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Computer Science <br>
-📫 How to reach me: litchfieldhello@gmail.com
+📫 How to reach me: maximilhac@gmail.com
 
 ⚡ Fun fact: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgosunyoung%2Fgosunyoung&count_bg=%233A7CA7&title_bg=%23D2D5D1&icon=reactos.svg&icon_color=%23C38B8B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- |E-mail                   | Weblog                        | Content                       | -->
