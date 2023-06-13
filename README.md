@@ -9,7 +9,7 @@
 <!-- |                         | https://bedigital.tistory.com |Junk for Development, Korean | -->
 
 <!--[![Peyton's GitHub stats](https://github-readme-stats.vercel.app/api?username=kknni&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kknni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-http://math.ewha.ac.kr/~yoon/images/runroom.gif
+
 ![gitartwork](https://raw.githubusercontent.com/kknni/gitartwork/main/gitartwork.svg)
 
 ## Stash && Smash
