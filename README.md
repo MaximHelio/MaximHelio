@@ -5,25 +5,23 @@
 
 👯 I’m looking to collaborate on material design, development of novel frameworks, and new theory for excited-state-dynamics
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgosunyoung%2Fgosunyoung&count_bg=%233A7CA7&title_bg=%23D2D5D1&icon=reactos.svg&icon_color=%23C38B8B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![gitartwork](https://raw.githubusercontent.com/kknni/gitartwork/main/gitartwork.svg)
+
 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaximHelio&theme=onedark)](https://github.com/MaximHelio/github-profile-trophy)
+
+⚡ Fun fact: 
 
 ⚒️ Tech Skills
 
 [![Coders rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MaximHelio)](https://profile.codersrank.io/user/MaximHelio)
 
-⚡ Fun fact: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgosunyoung%2Fgosunyoung&count_bg=%233A7CA7&title_bg=%23D2D5D1&icon=reactos.svg&icon_color=%23C38B8B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- |E-mail                   | Weblog                        | Content                       | -->
-<!-- |-------------------------|-------------------------------|-------------------------------| -->
-<!-- | gasiorowicz10@gmail.com | https://peytonengine.com      |TIL for Cheminformatics, Semiconductor Nanoscience and CS, English| -->
-<!-- |                         | https://bedigital.tistory.com |Junk for Development, Korean | -->
 
-<!--[![Peyton's GitHub stats](https://github-readme-stats.vercel.app/api?username=kknni&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kknni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-
-![gitartwork](https://raw.githubusercontent.com/kknni/gitartwork/main/gitartwork.svg)
 
 ## Stash && Smash
+
 <table align="center">
     <td align="center" width="96">
       <a href="#vuejs">
