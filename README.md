@@ -12,7 +12,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaximHelio&theme=onedark&title=MultiLanguage,Repositories,Commits,Followers,Stars,PullRequest)](https://github.com/MaximHelio/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaximHelio&theme=flat&title=MultiLanguage,Repositories,Commits,Followers,Stars,PullRequest)](https://github.com/MaximHelio/github-profile-trophy)
+
 
 ## Stash && Smash
 
@@ -177,6 +177,8 @@
   </tr>
 
 </table>
+
+
 
 ⚒️ Tech Skills
 
