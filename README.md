@@ -10,7 +10,7 @@
 
 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaximHelio&theme=onedark)](https://github.com/MaximHelio/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaximHelio&theme=onedark&rank=S, AAA, AA, A, B)](https://github.com/MaximHelio/github-profile-trophy)
 
 ## Stash && Smash
 
