@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Computer Science <br>
+🌱 I’m currently working as a software engineer. <br>
 📫 How to reach me: maximilhac@gmail.com
 
 👯 I’m looking to collaborate on material design, development of novel frameworks, and new theory for excited-state-dynamics
