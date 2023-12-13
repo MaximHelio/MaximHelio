@@ -5,16 +5,17 @@
 
 👯 I’m looking to collaborate on material design, development of novel frameworks, and new theory for excited-state-dynamics
 
-#### ⚡ Fun fact: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgosunyoung%2Fgosunyoung&count_bg=%233A7CA7&title_bg=%23D2D5D1&icon=reactos.svg&icon_color=%23C38B8B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### ⚡ Fun fact: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgosunyoung%2Fgosunyoung&count_bg=%233A7CA7&title_bg=%23D2D5D1&icon=reactos.svg&icon_color=%23C38B8B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![gitartwork](https://raw.githubusercontent.com/kknni/gitartwork/main/gitartwork.svg)
 
-#### 🏆 Trophies
+### 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaximHelio&theme=onedark&title=MultiLanguage,Repositories,Commits,Followers,Stars,PullRequest)](https://github.com/MaximHelio/github-profile-trophy)
 
 
 
-#### Stash && Smash
+### Stash && Smash
 
 <table align="center">
     <td align="center" width="96">
@@ -178,9 +179,7 @@
 
 </table>
 
-
-
-#### ⚒️ Tech Skills
+### ⚒️ Tech Skills
 
 
 
