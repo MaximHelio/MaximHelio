@@ -14,7 +14,7 @@
 
 ### 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaximHelio&theme=onedark&title=MultiLanguage,Repositories,Commits,Followers,Stars,PullRequest)](https://github.com/MaximHelio/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaximHelio&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com//github-profile-trophy)
 
 
 
@@ -66,7 +66,6 @@
       <br>Fortran
     </td>
 </tr>
-
 <tr>
     <td align="center"  width="96">
      <a href="https://nodejs.org" target="_blank"> <img src="https://logodix.com/logo/1614368.png" alt="nodejs" width="40" height="40"/> </a>
@@ -187,6 +186,8 @@
 
 
 [![Coders rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MaximHelio)](https://profile.codersrank.io/user/MaximHelio)
+
+
 
 <!--
 
