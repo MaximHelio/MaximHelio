@@ -1,11 +1,14 @@
-### Hi there👋 I can visualize your novel idea in reality 🧙‍♀️
+### Hi there👋
 
-🕵️‍♀️ I’m currently working as a software engineer. <br>
+🧙‍♀️ To visualize your novel idea in reality,
+
+🕵️‍♀️ I’m currently working as a software engineer. 
+
+🎓I'm interested in ML-augmented simulation, excited-state dynamics, and polariton-based research to control qubits.
+
+👯 I’m looking to collaborate on developing novel frameworks and theories for complementing perturbation theory.
+
 📫 How to reach me: maximilhac@gmail.com
-
-🎓I'm interested in ML-augmented simulation and polariton-based research to control qubit.
-
-👯 I’m looking to collaborate on material design, development of novel frameworks, and new theory for excited-state-dynamics
 
 ### ⚡ Fun fact: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgosunyoung%2Fgosunyoung&count_bg=%233A7CA7&title_bg=%23D2D5D1&icon=reactos.svg&icon_color=%23C38B8B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
