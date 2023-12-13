@@ -15,7 +15,7 @@
 
 
 
-### Stash && Smash
+### 🔭 Stash && Smash
 
 <table align="center">
     <td align="center" width="96">
