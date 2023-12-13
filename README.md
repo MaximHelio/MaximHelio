@@ -14,7 +14,7 @@
 
 ### 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaximHelio&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com//github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaximHelio&theme=onedark&title=MultiLanguage,Repositories,Commits,Followers,Stars)](https://github.com//github-profile-trophy)
 
 
 
