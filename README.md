@@ -1,8 +1,9 @@
-### Hi there👋 To visualize your novel idea in reality,🧙‍♀️
+### Hi there👋 This is MaximHelio, a software engineer who enjoys experimentaion in life.
+### To visualize your novel idea in reality,🧙‍♀️
 
 🕵️‍♀️ I’m currently working as a software engineer. 
 
-🎓I'm interested in ML-augmented simulation, excited-state dynamics, and quasi-particle research to control qubits.
+🎓 I'm interested in ML-augmented simulation, excited-state dynamics, and quasi-particle research to control qubits.
 
 👯 I’m looking to collaborate on developing novel frameworks for complementing perturbation and approximation theory.
 
