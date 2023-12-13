@@ -2,7 +2,7 @@
 
 🕵️‍♀️ I’m currently working as a software engineer. 
 
-🎓I'm interested in ML-augmented simulation, excited-state dynamics, and polariton-based research to control qubits.
+🎓I'm interested in ML-augmented simulation, excited-state dynamics, and quasi-particle research to control qubits.
 
 👯 I’m looking to collaborate on developing novel frameworks for complementing perturbation and approximation theory.
 
