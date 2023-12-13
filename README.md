@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there👋 I can visualize your novel idea in reality 🧙‍♀️
 
-🌱 I’m currently working as a software engineer. <br>
+🕵️‍♀️ I’m currently working as a software engineer. <br>
 📫 How to reach me: maximilhac@gmail.com
+
+🎓I'm interested in ML-augmented simulation and polariton-based research to control qubit.
 
 👯 I’m looking to collaborate on material design, development of novel frameworks, and new theory for excited-state-dynamics
 
@@ -190,10 +192,7 @@
 Here are some ideas to get you started:
 Hello! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning web
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 I'm interested in chemoinformatics
 - 😄 Pronouns: ...
--->
+  -->
