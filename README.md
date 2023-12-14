@@ -1,5 +1,5 @@
 ### Hi there👋 
-### This is MaximHelio, a software engineer who enjoys experimentaion in life.
+### This is an engineer who enjoys experimentaion in life.
 ### To visualize your novel idea in reality,🧙‍♀️
 
 🕵️‍♀️ I’m currently working as a software engineer. 
