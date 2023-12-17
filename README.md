@@ -1,5 +1,5 @@
 ### Hi there👋 
-### This is an engineer who enjoys experimentaion in life.
+### This is an engineer who enjoys experimentation in life.
 ### To visualize your novel idea in reality,🧙‍♀️
 
 🕵️‍♀️ I’m currently working as a software engineer. 
@@ -180,16 +180,13 @@
       <br>Nginx
     </td>
   </tr>
-
 </table>
+
+
 
 ### ⚒️ Tech Skills
 
-
-
 [![Coders rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MaximHelio)](https://profile.codersrank.io/user/MaximHelio)
-
-
 
 <!--
 
