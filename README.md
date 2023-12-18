@@ -5,7 +5,7 @@
 
 🎓 I'm interested in ML-augmented simulation, excited-state dynamics, and quasi-particle research to control qubits.
 
-👯 I’m looking to collaborate on developing novel frameworks for complementing perturbation and approximation theory.
+👯 I’m looking to collaborate on developing new frameworks for complementing perturbation and approximation theory.
 
 📫 How to reach me: maximilhac@gmail.com
 
