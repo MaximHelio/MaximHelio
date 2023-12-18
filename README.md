@@ -1,6 +1,5 @@
 ### Hi there👋 
-### This is an engineer who enjoys experimentation in life.
-### To visualize your novel idea in reality,🧙‍♀️
+### To realize your novel idea,🧙‍♀️
 
 🕵️‍♀️ I’m currently working as a software engineer. 
 
