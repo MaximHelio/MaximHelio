@@ -183,11 +183,6 @@
 </table>
 
 
-
-### ⚒️ Tech Skills
-
-[![Coders rank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MaximHelio)](https://profile.codersrank.io/user/MaximHelio)
-
 <!--![gitartwork](https://raw.githubusercontent.com/kknni/gitartwork/main/gitartwork.svg) -->
 
 <!--
