@@ -8,7 +8,6 @@
 👯 I’m looking to collaborate on developing new frameworks for complementing perturbation and approximation theory.
 
 📫 How to reach me: maximilhac@gmail.com
-📫 Projects' git: https://github.com/gogomaya
 
 <img src="https://github.com/MaximHelio/MaximHelio/blob/output/github-contribution-grid-snake.svg"/>
 
