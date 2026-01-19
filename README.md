@@ -3,22 +3,7 @@
 
 🕵️‍♀️ I’m currently working as a software engineer. 
 
-🎓 I'm interested in ML-augmented simulation, excited-state dynamics, and quasi-particle research to control qubits.
-
-👯 I’m looking to collaborate on developing new frameworks for complementing perturbation and approximation theory.
-
-📫 How to reach me: maximilhac@gmail.com
-
 <img src="https://github.com/MaximHelio/MaximHelio/blob/output/github-contribution-grid-snake.svg"/>
-
-### ⚡ Fun fact: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgosunyoung%2Fgosunyoung&count_bg=%233A7CA7&title_bg=%23D2D5D1&icon=reactos.svg&icon_color=%23C38B8B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaximHelio&theme=onedark&title=MultiLanguage,Repositories,Commits,Followers,Stars)](https://github.com//github-profile-trophy)
-
-
-
 ### 🔭 Stash && Smash
 
 <table align="center">
